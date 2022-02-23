@@ -5,10 +5,12 @@
 /.pnp
 .pnp.js
 
+#test
 # testing
 /coverage
 
 #
+///////////
 # next.js
 /.next/
 /out/
